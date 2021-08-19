@@ -8,5 +8,5 @@ It is a truly fascinating field and I've endeavored to learn all that I can abou
 Within this public git-space you will find a collection of algorithms that I employ on a regular basis.
 These examples use small data sets but the algorithms themselves can be scaled to fit larger volumes of data.
 
-If you have any questions please feel free to reach out to me at grant.isaacs@live.com
+If you have any questions please feel free to reach out to me at grant@chaositect.com
 
