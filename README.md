@@ -1,6 +1,6 @@
-Hello, from @gisaacs
+Hello,
 
-I'm a Business Intelligence Analyst and Data Scientist with an ever-growing passion for the field of machine learning and advanced computer applications.
+My name is Grant Isaacs, I'm a Business Intelligence Analyst and Data Scientist with an ever-growing passion for the field of machine learning and advanced computer applications.
 
 I enjoy the challenges presented by business analytics, from data capture and preprocessing to predictive outputs and cross-validation.
 It is a truly fascinating field and I've endeavored to learn all that I can about it.
