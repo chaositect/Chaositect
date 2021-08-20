@@ -1,12 +1,8 @@
 Hello,
 
-My name is Grant Isaacs, I'm a Business Intelligence Analyst and Data Scientist with an ever-growing passion for the field of machine learning and advanced computer applications.
+My name is Grant Isaacs, I'm an autodidactic polymath specializing in machine learning algorithms, business intelligence analytics and data visualization. An expert communicator with a talent for presenting complex data and topics to a widely divergent audience. A rapid assimilator of information and a infinitely patient personal tutor.
 
-I enjoy the challenges presented by business analytics, from data capture and preprocessing to predictive outputs and cross-validation.
-It is a truly fascinating field and I've endeavored to learn all that I can about it.
+I'm always excited to share new information and technologies, so if you have any questions or comments please feel free to reach out to me at grant@chaositect.com
 
-Within this public git-space you will find a collection of algorithms that I employ on a regular basis.
-These examples use small data sets but the algorithms themselves can be scaled to fit larger volumes of data.
-
-If you have any questions please feel free to reach out to me at grant@chaositect.com
+Thank you, and best of luck!
 
